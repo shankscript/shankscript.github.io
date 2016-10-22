@@ -1,2 +1,0 @@
-# shankscript.github.io
-host
